@@ -8,7 +8,7 @@ We build tools for real teaching and campus life, and we open them up for everyo
 
 ## What we build
 
-We don't have any curated GitHub repositories yet - join us and be the first contributor to fill these out!
+We don't have any curated GitHub repositories yet - join us and be the first contributor to fill this blank out!
 
 ## Get involved
 
