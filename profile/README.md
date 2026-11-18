@@ -1,8 +1,5 @@
 # Yali-Project
 
-**Code for Yali. Open source for education.**  
-**Made at Yali, open to everyone.**
-
 Yali-Project is an open-source organization built around Yali High School.  
 We build tools for real teaching and campus life, and we open them up for everyone.
 
